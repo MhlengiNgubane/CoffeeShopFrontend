@@ -112,9 +112,7 @@ header .search-form{
     transform: top;
 }
 
-header .search-form.active{
-    transform: scaleX(1);
-}
+
 
 header .search-form input{
     height: 100%;
@@ -203,7 +201,7 @@ header .cart-items-container .btn{
     }
 }
 
-@media (max-width: 768px){
+@media (max-width: 991px){
     #menu-btn{
         display: inline-block;
     }
@@ -226,16 +224,5 @@ header .cart-items-container .btn{
         margin: 1.5rem;
         padding: .5rem;
         font-size: 2rem;
-    }
-
-    header .search-form{
-        width: 90%;
-        right: 2rem;
-    }
-}
-
-@media (max-width: 450px){
-    html{
-        font-size: 50%;
     }
 }

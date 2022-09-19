@@ -233,9 +233,3 @@ header .cart-items-container .btn{
         right: 2rem;
     }
 }
-
-@media (max-width: 450px){
-    html{
-        font-size: 50%;
-    }
-}
