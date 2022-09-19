@@ -202,10 +202,10 @@ header .cart-items-container .btn{
 
     header nav{
         position: absolute;
-        top: 100%; right: -100%;
+        top: 100%; right: 0;
         background: #fff;
         width: 30rem;
-        height: calc(100vh - 9.5rem)
+        height: calc()
     }
 
     header nav a{
