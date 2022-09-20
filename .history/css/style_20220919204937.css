@@ -264,17 +264,9 @@ header .cart-items-container .btn{
 
     .home{
         background-position: left;
-        justify-content: center;
-        text-align: center;
     }
 
-    .home .content h3{
-        font-size: 4.5rem;
-    }
-
-    .home .content p{
-        font-size: 1.5rem;
-    }
+    .home
 }
 
 @media (max-width: 450px){
