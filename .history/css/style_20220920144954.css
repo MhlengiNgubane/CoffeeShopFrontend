@@ -263,10 +263,8 @@ header .cart-items-container .btn{
 }
 
 .about .row .content p{
-    font-size: 1.6rem;
-    color: #ccc;
-    padding: 1rem 0;
-    line-height: 1.8;
+    flex: 1 1 45rem;
+    padding: 2rem;
 }
 
 
