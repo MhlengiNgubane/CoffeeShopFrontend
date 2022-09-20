@@ -196,7 +196,7 @@ header .cart-items-container .btn{
     min-height: 100hv;
     display: flex;
     align-items: center;
-    background: url(../images/about-img.jpeg) no-repeat;
+    background: url(../images/home-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -265,7 +265,7 @@ header .cart-items-container .btn{
     .home{
         background-position: left;
         justify-content: center;
-        text-align: center;
+        text-align: centerstar;
     }
 
     .home .content h3{

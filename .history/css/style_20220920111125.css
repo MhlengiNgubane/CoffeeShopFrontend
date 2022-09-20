@@ -193,10 +193,10 @@ header .cart-items-container .btn{
 }
 
 .home{
-    min-height: 100hv;
+    min-height: ;
     display: flex;
     align-items: center;
-    background: url(../images/about-img.jpeg) no-repeat;
+    background: url(../images/home-img.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }

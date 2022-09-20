@@ -196,9 +196,9 @@ header .cart-items-container .btn{
     min-height: 100hv;
     display: flex;
     align-items: center;
-    background: url(../images/about-img.jpeg) no-repeat;
+    background: url(../images/home-img.jpeg) no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: ;
 }
 
 .home .content{

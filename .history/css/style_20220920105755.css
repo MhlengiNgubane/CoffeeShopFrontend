@@ -139,7 +139,7 @@ header .search-form label:hover{
 
 header .cart-items-container{
     position: absolute;
-    top: 100%; right: -100%;
+    top: 100%; right: 0;
     height: calc(100vh - 9.5rem);
     width: 35rem;
     background: #fff;
@@ -196,7 +196,7 @@ header .cart-items-container .btn{
     min-height: 100hv;
     display: flex;
     align-items: center;
-    background: url(../images/about-img.jpeg) no-repeat;
+    background: url(../images/home-img.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }

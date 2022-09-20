@@ -196,7 +196,7 @@ header .cart-items-container .btn{
     min-height: 100hv;
     display: flex;
     align-items: center;
-    background: url(../images/about-img.jpeg) no-repeat;
+    background: url(../images/home-img.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -207,7 +207,7 @@ header .cart-items-container .btn{
 
 .home .content h3{
     font-size: 6rem;
-    text-transform: uppercase;
+    text-transform: ;
     color: #fff;
 }
 
