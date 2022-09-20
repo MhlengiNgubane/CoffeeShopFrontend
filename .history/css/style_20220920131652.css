@@ -43,9 +43,7 @@ body{
     background: var(--bg);
 }
 
-#home{
-    padding: 2rem 7%;
-}
+#
 
 .btn{
     margin-top: 1rem;
@@ -233,10 +231,6 @@ header .cart-items-container .btn{
 
     header{
         padding: 1.5rem 2rem;
-    }
-
-    #home{
-        padding: 2rem;
     }
 }
 

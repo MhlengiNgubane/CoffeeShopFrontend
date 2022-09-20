@@ -44,7 +44,7 @@ body{
 }
 
 #home{
-    padding: 2rem 7%;
+    pa
 }
 
 .btn{
@@ -233,10 +233,6 @@ header .cart-items-container .btn{
 
     header{
         padding: 1.5rem 2rem;
-    }
-
-    #home{
-        padding: 2rem;
     }
 }
 
