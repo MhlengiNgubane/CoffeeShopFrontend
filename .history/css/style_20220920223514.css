@@ -269,21 +269,7 @@ header .cart-items-container .btn{
     line-height: 1.8;
 }
 
-.menu .box-container{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 1.5rem;
-}
 
-.menu .box-container .box{
-    padding: 5rem;
-    text-align: center;
-    border: var(--border);
-}
-
-.menu .box-container .box img{
-    height: 10rem;
-}
 
 
 

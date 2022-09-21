@@ -281,10 +281,6 @@ header .cart-items-container .btn{
     border: var(--border);
 }
 
-.menu .box-container .box img{
-    height: 10rem;
-}
-
 
 
 /* media queries */

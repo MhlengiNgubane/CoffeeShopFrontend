@@ -277,12 +277,7 @@ header .cart-items-container .btn{
 
 .menu .box-container .box{
     padding: 5rem;
-    text-align: center;
-    border: var(--border);
-}
-
-.menu .box-container .box img{
-    height: 10rem;
+    text-align: ;
 }
 
 
