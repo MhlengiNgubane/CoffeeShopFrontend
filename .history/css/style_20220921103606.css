@@ -271,7 +271,7 @@ header .cart-items-container .btn{
 
 .menu .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
     gap: 1.5rem;
 }
 
@@ -297,18 +297,9 @@ header .cart-items-container .btn{
     padding: 5rem 0;
 }
 
-.menu .box-container .box .price span{
-    font-size: 1.5rem;
-    text-decoration: line-through;
-}
-
-.menu .box-container .box:hover{
-    background: #fff;
-}
-
-.menu .box-container .box:hover > *{
-    color: var(--black);
-}
+color: #fff;
+    font-size: 2rem;
+    padding: 1rem 0;
 
 
 
